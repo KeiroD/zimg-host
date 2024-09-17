@@ -4,7 +4,7 @@
       <h2 class="mdl-card__title-text">Error</h2>
     </div>
     <div class="mdl-card__supporting-text">
-    	<p>File "<?=$name?>" has been not uploaded. <?=$error?></p>
+    	<p>Sorry, the file "<?=$name?>", failed to be uploaded. <?=$error?></p>
     </div>
   </div>
 </div>
