@@ -1,3 +1,3 @@
 <div class="file-item">
-  <p class="error_text">File "<?=$name?>" has been not uploaded. <?=$error?></p>
+  <p class="error_text">Sorry, the file "<?=$name?>", failed to be uploaded. <?=$error?></p>
 </div>
